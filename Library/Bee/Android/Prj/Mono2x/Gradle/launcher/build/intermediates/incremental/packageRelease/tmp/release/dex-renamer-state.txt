@@ -1,0 +1,4 @@
+#Sun Aug 04 03:43:20 PKT 2024
+base.0=F\:\\Kiwert Project\\Test_Crossword\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
